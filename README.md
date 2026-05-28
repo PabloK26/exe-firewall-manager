@@ -28,6 +28,9 @@ unblock_exe_firewall.bat "C:\MiPrograma"
 
 ## Ejemplo
 
+```text
+Ruta carpeta: "C:\hola"
+```
 Si existe:
 
 ```text
