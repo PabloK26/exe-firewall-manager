@@ -11,6 +11,8 @@ Herramienta Batch para bloquear o desbloquear ejecutables automáticamente en el
 
 ## Uso
 
+Colocar dirección exacta de la carpeta en donde se encuentran los .exe a bloquear/desbloquear:
+
 ```bat
 block_exe_firewall.bat "C:\MiPrograma"
 ```
