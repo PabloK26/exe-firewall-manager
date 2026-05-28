@@ -37,7 +37,7 @@ goto MENU
 cls
 echo =====================================
 echo Script automatizado para crear y eliminar reglas de bloqueo (entrada y salida)
-echo en el Firewall de Windows mediante deteccion automatica todos de archivos .exe
+echo en el Firewall de Windows mediante deteccion automatica de todos de archivos .exe
 echo dentro de una carpeta seleccionada, inclusive en subcarpetas.
 echo =====================================
 pause
