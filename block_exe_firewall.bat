@@ -99,3 +99,7 @@ for /r "%carpeta%" %%G in (*.exe) do (
 echo Listo.
 pause
 goto MENU
+
+:: =========================
+:: Creado por PabloK26 - San Juan, Argentina
+:: =========================
