@@ -6,7 +6,7 @@ Herramienta Batch para bloquear o desbloquear ejecutables automáticamente en el
 
 - Busca archivos `.exe` en una carpeta
 - Crea reglas automáticas
-- Elimina reglas existentes
+- Elimina reglas existentes, creadas por el mismo .bat
 - Reglas de entrada y salida
 
 ## Uso
