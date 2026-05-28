@@ -26,6 +26,7 @@ System maintenance.
 ============================================================================
 
 ***SPANISH***
+
 Herramienta automatizada en formato .bat diseñada para administrar reglas del Firewall de Windows de manera rápida y masiva.
 
 Permite:
