@@ -22,7 +22,7 @@ unblock_exe_firewall.bat "C:\MiPrograma"
 ## Requisitos
 
 - Windows
-- Ejecutar como administrador
+- Ejecutar como administrador: Se ejecuta automáticamente como Admin.
 
 ## Ejemplo
 
